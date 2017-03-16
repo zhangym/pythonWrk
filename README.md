@@ -1,0 +1,2 @@
+# pythonWrk
+learning Python
